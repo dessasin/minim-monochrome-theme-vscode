@@ -5,10 +5,6 @@
 
 **Minim Monochrome** is an enhanced version of the Gruber Darker theme to further highlight monochrome colors and improve readability. Care has been taken to remain faithful to Gruber Darker colors and readability was taken into account while adding new colors.
 
-
-## Sreenshot
-![screenshot](screenshot.png)
-
 ## Manual Installation
 
 1. Clone this repository using [Git](https://git-scm.com/) `git clone https://github.com/dessasin/minim-monochrome-theme-vscode.git` or just [Download Zip](https://github.com/dessasin/minim-monochrome-theme-vscode/archive/main.zip).
@@ -30,3 +26,6 @@ Best support for:
     5. JSON
     6. HTML
     7. CSS
+    
+ ## TODO:
+ [ ] Add Screenshot
