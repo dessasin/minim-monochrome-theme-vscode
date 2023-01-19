@@ -13,7 +13,7 @@
 
 3. Open up Visual Studio Code, open up your command palette (on windows by default it should be CTRL + SHIFT + P), type in `Preferences: Color Theme` and press Enter.
 
-4. Select Gruber-Darker and enjoy.
+4. Select Minim Monochrome and enjoy.
 
 
 ## Support
