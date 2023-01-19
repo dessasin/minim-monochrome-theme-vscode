@@ -1,10 +1,10 @@
 {
-    "name": "gruber-darker",
-    "displayName": "Gruber Darker",
-    "description": "Tsoding's theme for vscode",
+    "name": "minim-monochrome",
+    "displayName": "Minim Monochrome",
+    "description": "Eyecandy Monochrome Theme For Real Developers",
     "version": "1.0.0",
     "engines": {
-        "vscode": "^1.53.2"
+        "vscode": "^1.74.3"
     },
     "categories": [
         "Themes"
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Gruber Darker",
+                "label": "Minim Monochrome",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Gruber-Darker-color-theme.json"
+                "path": "./themes/minim-monochrome.json"
             }
         ]
     },
